@@ -3,7 +3,7 @@
 IT engineer and contributor to the internet of things
 
 ## Home
-- **[Automated robot vacuum cleaner garage](https://hackaday.io/project/178993-space-saving-robot-vacuum-cleaner-garage)**, an ESP8266 powered kitchen skirting board that hides the robot vacuum cleaner
+- **[Automated robot vacuum cleaner garage](https://hackaday.io/project/178993-space-saving-robot-vacuum-cleaner-garage)**, an ESP8266 powered kitchen skirting board that hides the robot vacuum cleaner. Project log on hackaday.io, source code in [ecovacs-deebot-garage](https://github.com/mika2de/ecovacs-deebot-garage).
 
 - **[Automated cocktail machine](https://cocktailnator.de)**, an Ardunio + Raspberry PI powered cocktail machine. My first project which utilizes micro controllers :) Rasberry PI server build with Spring Boot, frontend with AngularJs.
 

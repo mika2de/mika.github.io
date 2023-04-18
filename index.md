@@ -9,7 +9,7 @@ IT software engineer and contributor to the internet of things.
 
 - My printable 3D designs on **[thingiverse](https://www.thingiverse.com/mika2de/designs)** A peristalitik pump I designed using an open source CAD programm and printed with my 3D printer. The pump is intended to replace the preasure system I develop in 2014 for my cocktail machine. For more details visit my old cocktailnator blog entries.
 
-- My tiny technical **[youtube channel](youtube.com/@mkai2305)** showing some of the above projects 
+- My tiny technical **[youtube channel](youtube.com/@mkai2305)** showing some of the above projects. 
 
 - Several WordPress based websites for friends and clubs like my own **[Water protection and fishing club](https://gav-reinheim.de)** in which I work as a board member (since 2022).
 

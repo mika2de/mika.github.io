@@ -2,8 +2,8 @@
 
 IT software engineer and contributor to the internet of things.
 
-## My leisure projects
-- **[Automated robot vacuum cleaner garage](https://hackaday.io/project/178993-space-saving-robot-vacuum-cleaner-garage)**, an ESP8266 powered kitchen skirting board that hides the robot vacuum cleaner. Project log on hackaday.io, source code in [ecovacs-deebot-garage](https://github.com/mika2de/ecovacs-deebot-garage). Before you ask, you can't buy but build it. 
+## Leisure projects
+- **[Automated robot vacuum cleaner garage](https://hackaday.io/project/178993-space-saving-robot-vacuum-cleaner-garage)**, an ESP8266 powered kitchen skirting board that hides the robot vacuum cleaner. Project log on hackaday.io, source code in [ecovacs-deebot-garage](https://github.com/mika2de/ecovacs-deebot-garage). You can't buy but build it. 
 
 - **[Automated cocktail machine](https://cocktailnator.de)**, an Ardunio + Raspberry PI powered cocktail machine. My first project which utilizes micro controllers :) Rasberry PI server build with Spring Boot, frontend with AngularJs.
 
@@ -17,5 +17,4 @@ IT software engineer and contributor to the internet of things.
 
 - A lot of home automation mostly running on a HP server with Proxmox and RAID 1 below. Thanks to the virualization layer the installations and maintenance of e.g. Home Assistant, OctoPi, AdGuard, an nginx reverse-proxy, Nextcloud and further neat tools is dead easy.
 
-- My **[Stackoverflow](https://stackoverflow.com/users/4482535/mika)** profile. 
-'
+- My **[Stackoverflow](https://stackoverflow.com/users/4482535/mika)** profile.

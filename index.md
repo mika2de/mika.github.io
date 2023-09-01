@@ -1,4 +1,4 @@
-# Hi this is **Mi**chael Otmar **Ka**iser
+# Hi this is Michael Otmar Kaiser
 
 IT software engineer and contributor to the internet of things.
 

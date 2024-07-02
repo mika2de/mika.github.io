@@ -23,3 +23,4 @@ IT software engineer and contributor to the internet of things.
 - Backend engineering with cutting edge technologies ;-) 
 - **Article** on **[Google Cloud blog](https://cloud.google.com/blog/products/databases/deutsche-bank-scales-online-banking-platform-with-spanner?hl=en)** about how I made an open source tool fit to high availability requirements.
 - [cloudskillsboost.google](https://www.cloudskillsboost.google/public_profiles/d7cce189-52a1-4f82-927c-f5b7f484f5fa) profile
+- [credly](https://www.credly.com/users/michael-kaiser.43c9bc5b/badges) profile 
